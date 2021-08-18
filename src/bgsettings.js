@@ -1,7 +1,7 @@
 const bgsettings = {
     particles: {
         number: {
-            value: 3000
+            value: 210
         },
         color: {
             value: "#000000"
